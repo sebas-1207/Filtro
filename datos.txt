@@ -1,0 +1,16 @@
+Manual: Python
+Autor: Roy H Llamas
+Páginas: 65
+Temas:
+	Título: Algoritmos, Clasificación: 1
+	Título: Modularidad, Clasificación: 2
+	Título: Archivos JSON, Clasificación: 3
+
+Manual: JavaScript
+Autor: Vermen Ayala
+Páginas: 83
+Temas:
+	Título: Variables, Clasificación: 1
+	Título: Destructuración, Clasificación: 2
+	Título: Bases de Datos, Clasificación: 3
+
